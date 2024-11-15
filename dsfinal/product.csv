@@ -1,0 +1,25 @@
+﻿product_id,product_name,index
+ind_ahor_fin_ult1,Saving Account,0
+ind_aval_fin_ult1,Guarantees,1
+ind_cco_fin_ult1,Current Accounts,2
+ind_cder_fin_ult1,Derivada Account,3
+ind_cno_fin_ult1,Payroll Account,4
+ind_ctju_fin_ult1,Junior Account,5
+ind_ctma_fin_ult1,Más particular Account,6
+ind_ctop_fin_ult1,particular Account,7
+ind_ctpp_fin_ult1,particular Plus Account,8
+ind_deco_fin_ult1,Short-term deposits,9
+ind_deme_fin_ult1,Medium-term deposits,10
+ind_dela_fin_ult1,Long-term deposits,11
+ind_ecue_fin_ult1,e-account,12
+ind_fond_fin_ult1,Funds,13
+ind_hip_fin_ult1,Mortgage,14
+ind_plan_fin_ult1,Pensions,15
+ind_pres_fin_ult1,Loans,16
+ind_reca_fin_ult1,Taxes,17
+ind_tjcr_fin_ult1,Credit Card,18
+ind_valo_fin_ult1,Securities,19
+ind_viv_fin_ult1,Home Account,20
+ind_nomina_ult1,Payroll,21
+ind_nom_pens_ult1,Pensions,22
+ind_recibo_ult1,Direct Debit,23
